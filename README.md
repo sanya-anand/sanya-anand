@@ -13,7 +13,7 @@
 
 ## ✨ About Me
 
-Hi! I'm **Sanya Anand**, a Computer Science student at **Banasthali Vidyapith**.
+Hi! I'm **Sanya Anand**, a Computer Science student.
 
 - 🚀 Passionate about building scalable systems  
 - 🤖 Exploring AI, NLP & real-time applications  
@@ -38,6 +38,25 @@ Hi! I'm **Sanya Anand**, a Computer Science student at **Banasthali Vidyapith**.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 MUDRIKA – Speech to Sign Language Translator
+- Real-time speech → sign language system  
+- Emotion-aware animated avatar  
+- Built using Flask + React + Vosk + Blender  
+
+### 🔹 REFLECT – Emotion-Aware Journaling App
+- NLP-based emotion detection using DistilBERT  
+- Full-stack app with FastAPI + React  
+
+---
+
+## 🏆 Achievements
+- 🥇 Top 10% Finalist – Bobble AI Hackathon  
+- 🏅 Top 30/70 – Hack the Horizon 2.0  
+
+---
+
 ## 💡 Development Philosophy
 
 ### 🧱 Architecture
@@ -57,6 +76,18 @@ Hi! I'm **Sanya Anand**, a Computer Science student at **Banasthali Vidyapith**.
 
 ---
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanya-anand&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanya-anand&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🧩 Code & System Thinking
 
 ```js
@@ -69,3 +100,27 @@ async function fetchUserData(userId) {
     console.error("Error:", error);
   }
 }
+```
+---
+
+## 🚀 Current Focus
+
+- 🌱 Learning **Next.js**  
+- 🤖 Exploring **AI + NLP systems**  
+- ⚡ Building **real-time applications**
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anand-sanya">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sanya.anand294@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/sanya-anand">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
