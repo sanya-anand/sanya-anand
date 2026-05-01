@@ -101,7 +101,6 @@ async function fetchUserData(userId) {
 
 ## 🚀 Current Focus
 
-- 🌱 Learning **Next.js**  
 - 🤖 Exploring **AI + NLP systems**  
 - ⚡ Building **real-time applications**
 
