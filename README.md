@@ -37,9 +37,8 @@ Hi! I'm **Sanya Anand**, a Computer Science student passionate about building in
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,flask,fastapi,mongodb,python,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,nodejs,flask,fastapi,python,c++,postgresgit,github,figma" />
 </p>
-
 | Frontend | Backend | AI/ML | Tools |
 |----------|--------|------|------|
 | React | Flask | DistilBERT | Git |
