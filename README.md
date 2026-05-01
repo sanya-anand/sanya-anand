@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanya</h1>
 
-<h3 align="center">Full-Stack Developer • AI/ML • Real-Time Systems</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real-Time+Systems" />
+</p>
 
 <p align="center">
-  Engineering systems with clarity ✨
+  Building intelligent systems with clarity ✨
 </p>
 
 <p align="center">
