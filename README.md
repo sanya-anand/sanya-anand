@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanya-anand&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanya-anand&theme=tokyonight&hide_border=true" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=sanya-anand&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
@@ -21,7 +20,7 @@
 
 ## ✨ About Me
 
-Hi! I'm **Sanya Anand**, a Computer Science student.
+Hi! I'm **Sanya Anand**, a Computer Science student passionate about building intelligent, real-time systems that combine AI with intuitive user experiences.
 
 - 🚀 Passionate about building scalable systems  
 - 🤖 Exploring AI, NLP & real-time applications  
@@ -129,4 +128,12 @@ async function fetchUserData(userId) {
   <a href="https://github.com/sanya-anand">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanya-anand/sanya-anand/output/github-contribution-grid-snake.svg" />
 </p>
