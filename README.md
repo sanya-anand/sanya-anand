@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanya</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real-Time+Systems"/>
-</p>
-<h3 align="center">Full-Stack Developer • AI/ML Enthusiast</h3>
+
+<h3 align="center">Full-Stack Developer • AI/ML • Real-Time Systems</h3>
 
 <p align="center">
   Engineering systems with clarity ✨
@@ -37,14 +35,8 @@ Hi! I'm **Sanya Anand**, a Computer Science student passionate about building in
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,nodejs,flask,fastapi,python,c++,postgresgit,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,nodejs,flask,fastapi,python,cpp,postgres,git,github,figma" />
 </p>
-| Frontend | Backend | AI/ML | Tools |
-|----------|--------|------|------|
-| React | Flask | DistilBERT | Git |
-| JavaScript | FastAPI | Vosk ASR | GitHub |
-| HTML | Node.js | Librosa | VS Code |
-| CSS | SQLite | NLP | Figma |
 
 ---
 
