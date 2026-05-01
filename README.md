@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sanya Anand</h1>
+<h1 align="center">Hi 👋, I'm Sanya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real-Time+Systems"/>
+</p>
 <h3 align="center">Full-Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
@@ -6,7 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sanya%20Anand&fontSize=40&fontColor=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanya-anand&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanya-anand&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanya-anand&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -29,6 +37,10 @@ Hi! I'm **Sanya Anand**, a Computer Science student.
 
 ## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,flask,fastapi,mongodb,python,git,github,figma" />
+</p>
+
 | Frontend | Backend | AI/ML | Tools |
 |----------|--------|------|------|
 | React | Flask | DistilBERT | Git |
@@ -40,14 +52,20 @@ Hi! I'm **Sanya Anand**, a Computer Science student.
 
 ## 🚀 Featured Projects
 
-### 🔹 MUDRIKA – Speech to Sign Language Translator
-- Real-time speech → sign language system  
-- Emotion-aware animated avatar  
-- Built using Flask + React + Vosk + Blender  
+### 🧠 MUDRIKA – Speech to Sign Language Translator
+> Real-time AI system converting speech → sign language
 
-### 🔹 REFLECT – Emotion-Aware Journaling App
-- NLP-based emotion detection using DistilBERT  
-- Full-stack app with FastAPI + React  
+- 🎤 Speech recognition using Vosk  
+- 🤖 Emotion-aware animated avatar  
+- ⚙️ Flask + React + Blender  
+
+---
+
+### 💭 REFLECT – Emotion-Aware Journaling App
+> NLP-powered journaling with emotion insights  
+
+- 🧠 DistilBERT for emotion detection  
+- ⚡ FastAPI backend + React frontend  
 
 ---
 
@@ -73,18 +91,6 @@ Hi! I'm **Sanya Anand**, a Computer Science student.
 - Optimized APIs  
 - Efficient data handling  
 - Minimal latency systems  
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanya-anand&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanya-anand&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
