@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sanya</h1>
+<h1 align="center">Hi 👋, I'm Sanya </h1>
 
 <h3 align="center">Full-Stack Developer • AI/ML • Real-Time Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real-Time+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?color=00C2FF&center=true&vCenter=true&lines=Building+real-time+AI+systems;Scalable+backend+architecture;Clean+UI+%2B+UX" />
 </p>
 
 <p align="center">
