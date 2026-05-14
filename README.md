@@ -64,7 +64,7 @@ Hi! I'm **Sanya Anand**, a Computer Science student passionate about building in
 - 🏅 Top 30/70 – Hack the Horizon 2.0  
 
 ---
-
+```
 ## 💡 Development Philosophy
 
 ### 🧱 Architecture
@@ -96,6 +96,7 @@ async function fetchUserData(userId) {
     console.error("Error:", error);
   }
 }
+```
 ```
 ---
 
