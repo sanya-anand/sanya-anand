@@ -39,6 +39,7 @@ Hi! I'm **Sanya Anand**, a Computer Science student passionate about building in
 </p>
 
 ---
+<!--
 
 ## 🚀 Featured Projects
 
@@ -64,7 +65,7 @@ Hi! I'm **Sanya Anand**, a Computer Science student passionate about building in
 - 🏅 Top 30/70 – Hack the Horizon 2.0  
 
 ---
-<!--
+
 ## 💡 Development Philosophy
 
 ### 🧱 Architecture
@@ -102,7 +103,7 @@ async function fetchUserData(userId) {
 
 ## 🚀 Current Focus
 
-- 🤖 Exploring **AI + NLP systems**  
+- 🤖 Exploring **AI/ML + NLP systems**  
 - ⚡ Building **real-time applications**
 
 ---
